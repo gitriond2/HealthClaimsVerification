@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aaIrY+NpP+h9c6N216f4nwtoLNqsuGYIb3PWeOEdX/g=",
+  "Source": "HealthClaimsVerification",
+  "BasePath": "_content/HealthClaimsVerification",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
