@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4KR0xicuD7A=",
+  "dgSpecHash": "8SpFb/RfaSQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\JoseR\\Desktop\\ProyectoEmpresa3\\HealthClaimsVerification\\HealthClaimsVerification.csproj",
+  "projectFilePath": "C:\\Users\\JoseR\\Desktop\\EMPLEOS TECNICOS\\ProyectoEmpresa3\\HealthClaimsVerification\\HealthClaimsVerification.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JoseR\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\JoseR\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
